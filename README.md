@@ -2,7 +2,7 @@
 
 [![Tableau Public Link](View my Interactive Dashboard)](https://public.tableau.com/app/profile/roshni.palesha/viz/ElectricVehicleDataAnalysis_17471638054440/Dashboard1)
 
-![Dashboard Preview](path/to/your/dashboard_preview.png)
+![Dashboard Preview](https://github.com/roshnipalesha/Electric-Vehicle-Sales-Trends-Analysis/blob/main/dashboard_preview.png)
 *(Ensure you have an image named `dashboard_preview.png` in the same directory as your README file, or replace the path with the correct location of your image.)*
 
 ## Overview
