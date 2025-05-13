@@ -1,6 +1,7 @@
 # Electric-Vehicle-Sales-Trends-Analysis
 
-[![Tableau Public Link](View my Interactive Dashboard)](https://public.tableau.com/app/profile/roshni.palesha/viz/ElectricVehicleDataAnalysis_17471638054440/Dashboard1)
+**Check out my Interactive Dashboard on Tableau Public:**
+[Click Here to view the Dashboard](View my Interactive Dashboard)](https://public.tableau.com/app/profile/roshni.palesha/viz/ElectricVehicleDataAnalysis_17471638054440/Dashboard1)
 
 ![Dashboard Preview](https://github.com/roshnipalesha/Electric-Vehicle-Sales-Trends-Analysis/blob/main/dashboard_preview.png)
 
