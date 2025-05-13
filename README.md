@@ -53,7 +53,8 @@ This project aims to address the following key areas through data analysis and v
 
 ## How to Explore the Dashboard
 
-1.  Click on the "Tableau Public Link" above to access the interactive dashboard. *(Replace `YOUR_TABLEAU_PUBLIC_LINK_HERE` with the actual link to your published dashboard.)*
+1.  Click on the "Tableau Public Link" above to access the interactive dashboard.
+   *( `https://public.tableau.com/app/profile/roshni.palesha/viz/ElectricVehicleDataAnalysis_17471638054440/Dashboard1`)*
 2.  Once on Tableau Public, you can interact with the various charts, maps, and controls:
     * Use any **filters** available on the dashboard to narrow down the data by specific criteria (e.g., year, state, make, model, CAFV eligibility).
     * **Hover** over data points (bars, lines, map regions, slices) to see detailed information and tooltips.
@@ -63,6 +64,6 @@ This project aims to address the following key areas through data analysis and v
 ## Tools Used
 
 * **Tableau Desktop:** For data visualization and dashboard creation.
-* **[Mention your Data Source(s) here - e.g., Publicly available EV registration data, Government datasets, etc.]**
+* **Data Source(s):** State of Washington Electric Vehicle Population Data, data.wa.gov
 
 ## Author - Roshni Palesha
